@@ -9,6 +9,8 @@ Desktop Client Based on .NET + WavesGUI ( https://github.com/wavesplatform/Waves
 
 Using Microsoft Visual Studio 2010
 
+--- Can Use ClickOnce or Install Shield
+
 # DOWNLOAD PACKAGE
 
 In Release Tab Section
