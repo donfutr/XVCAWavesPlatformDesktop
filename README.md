@@ -14,4 +14,4 @@ Using Microsoft Visual Studio 2010
 
 # DOWNLOAD PACKAGE
 
-In Release Tab Section
+In Release Tab Section https://github.com/donfutr/XVCAWavesPlatformDesktop/releases
